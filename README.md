@@ -15,6 +15,16 @@
 - **نسخ احتياطي** — تصدير/استيراد JSON كامل للبيانات
 - **وضع داكن** — يتبع النظام في كل نافذة
 
+## 🖼️ لقطات الشاشة
+
+| | |
+|:---:|:---:|
+| <img src="images/mainimg.png" width="400" alt="اللوحة الرئيسية"> <br> **اللوحة الرئيسية** | <img src="images/tasksimg.png" width="400" alt="المهام"> <br> **المهام (كانبان)** |
+| <img src="images/calimg.png" width="400" alt="التقويم"> <br> **التقويم** | <img src="images/notesimg.png" width="400" alt="الملاحظات"> <br> **الملاحظات** |
+| <img src="images/reminderimg.png" width="400" alt="التذكيرات"> <br> **التذكيرات** | <img src="images/reminderimg2.png" width="400" alt="تفاصيل التذكير"> <br> **تفاصيل التذكير** |
+| <img src="images/bookmarksimg.png" width="400" alt="العلامات المرجعية"> <br> **العلامات المرجعية** | <img src="images/quicknoteimg.png" width="320" alt="الملاحظة السريعة"> <br> **الملاحظة السريعة ⌘O** |
+| <img src="images/settingimg.png" width="400" alt="الإعدادات"> <br> **الميزات والإعدادات** | <img src="images/aboutimg.png" width="400" alt="حول التطبيق"> <br> **حول التطبيق** |
+
 ## 🛠️ التقنيات
 
 | | |
