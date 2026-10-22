@@ -1,5 +1,10 @@
 # مهامي 🗂️
 
+![Swift](https://img.shields.io/badge/language-Swift%205-red.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Version](https://img.shields.io/badge/version-1.0.0-blueviolet.svg)
+
+
 منظم مهام وملاحظات شخصي لـ **macOS** — **عربي بالكامل (RTL)** — مبني بـ SwiftUI + SwiftData مع مزامنة **iCloud (CloudKit)**.
 
 # إهداء إلى المستخدم العربي
