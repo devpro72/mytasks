@@ -8,9 +8,13 @@ My Tasks
 
 منظم مهام وملاحظات شخصي لـ **macOS** — **عربي بالكامل (RTL)** — مبني بـ SwiftUI + SwiftData مع مزامنة **iCloud (CloudKit)**.
 
-# إهداء إلى المستخدم العربي
+## إهداء إلى المستخدم العربي
 
-### Thanks for OOMestre , original project : https://github.com/OOMestre/Focenda
+#### Thanks for OOMestre , original project : https://github.com/OOMestre/Focenda
+
+#### Download App :
+### https://github.com/devpro72/mytasks/releases/tag/MyTasks
+---
 
 ## ✨ الميزات
 
