@@ -1,0 +1,32 @@
+# --- Xcode ---
+# ملفات حالة المستخدم (تختلف بين الأجهزة)
+xcuserdata/
+*.xcuserstate
+xcshareddata/
+
+# --- المجلدات المبنية ---
+build/
+DerivedData/
+*.xcarchive
+
+# --- ملفات النظام ---
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~
+
+# --- Swift Package ---
+.build/
+Packages/
+Package.resolved
+
+# --- مخططات محلية ---
+*.xcscmblueprint
+
+# --- CocoaPods (إن اعتُمد لاحقًا) ---
+Pods/
+
+# --- ملفات مؤقتة أخرى ---
+*.orig
+.DS_Store?
