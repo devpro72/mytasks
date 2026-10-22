@@ -68,7 +68,7 @@ AppStore/                 # معلومات جاهزة للنشر على App Stor
 
 ## 📃 الترخيص
 
-راجع ملف [LICENSE](مهامي/LICENSE).
+راجع ملف [LICENSE](/LICENSE).
 
 ---
 
